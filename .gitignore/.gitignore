@@ -1,4 +1,3 @@
 *.doc
-
-go_backend_test_homework/my_app.go
+my_app.go
 
